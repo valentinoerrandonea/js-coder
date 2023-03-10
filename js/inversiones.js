@@ -36,5 +36,5 @@ for (let i = 1; i <= 12; i++ ) {
     
 }
 
-capitalFinal = inversionInicial + interesGanado
+capitalFinal = inversionInicial + interesAcumulado
 alert('Su inversion final fue de: $'+inversionInicial+'\nSu capital final es de: $'+capitalFinal)
