@@ -1,7 +1,7 @@
 # **Hola! este es mi proyecto de JAVASCRIPT**
-## ***Preentrega #1***
+## ***Preentrega #2***
 
-Durante esta preentrega realice un simulador interactivo sobre inversiones. No se si este sera mi trabajo final, pero me diverti mucho haciendolo.
+Durante esta preentrega realice un simulador interactivo de un carrito de compras utilizando OBJETOS, ARRAYS, FUNCIONES DE ORDEN SUPERIOR Y FUNCIONES FLECHA.
 
 Saludos!
 
